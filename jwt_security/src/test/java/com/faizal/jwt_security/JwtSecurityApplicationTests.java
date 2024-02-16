@@ -1,10 +1,10 @@
-package com.faizal.jwtauthentication;
+package com.faizal.jwt_security;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JwtAuthenticationApplicationTests {
+class JwtSecurityApplicationTests {
 
 	@Test
 	void contextLoads() {

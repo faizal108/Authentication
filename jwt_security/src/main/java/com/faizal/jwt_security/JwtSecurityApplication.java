@@ -1,13 +1,13 @@
-package com.faizal.jwtauthentication;
+package com.faizal.jwt_security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JwtAuthenticationApplication {
+public class JwtSecurityApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JwtAuthenticationApplication.class, args);
+		SpringApplication.run(JwtSecurityApplication.class, args);
 	}
 
 }
